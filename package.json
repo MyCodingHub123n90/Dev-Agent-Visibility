@@ -1,0 +1,15 @@
+{
+  "name": "dev-agent-visibility",
+  "version": "1.0.0",
+  "description": "A CLI tool for development insights",
+  "main": "index.js",
+  "bin": {
+    "victornewb": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "dev", "agent"],
+  "author": "MyCodingHub123n90",
+  "license": "MIT"
+}
